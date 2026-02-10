@@ -2,7 +2,7 @@
 
 The first step for this LetsDefend challenge is to connect to the lab environment and download and extract the ZIP file using the password `infected` before opening the email.
 
-![Email](/assets/images/email.png)
+![Email](/assets/images/email01.png)
 
 Initial impressions suggest this is likely a phishing email, as it is written in German and does not address the recipient by their full name. It can also be observed that there is a URL contained within the email.
 
