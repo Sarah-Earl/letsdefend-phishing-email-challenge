@@ -32,7 +32,7 @@ The next stage is to determine whether the URL contained in the email is malicio
 
 ![EmailHeader02](/assets/images/email-header02.png)
 
-**URL**: `https:// storage[.]googleapis[.]com/hqyoqzatqthj/aemmfcylvxeo[.]html#QORHNZC44FT4[.]QORHNZC44FT4?dYCTywccxr3jcxxrmcdcKBdmc5D6qfcJVcbbb4M`
+**URL**: `https://storage[.]googleapis[.]com/hqyoqzatqthj/aemmfcylvxeo[.]html#QORHNZC44FT4[.]QORHNZC44FT4?dYCTywccxr3jcxxrmcdcKBdmc5D6qfcJVcbbb4M`
 
 
 Using **VirusTotal** to analyse the URL confirms that it is malicious.
