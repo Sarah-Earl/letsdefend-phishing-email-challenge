@@ -1,6 +1,6 @@
-# LetsDefend – Phishing Email Challenge
+# LetsDefend Phishing Email Challenge
 
-The first step for this LetsDefend challenge is to connect to the lab environment and download and extract the ZIP file using the password **`infected`** before opening the email.
+The first step for this LetsDefend challenge is to connect to the lab environment and download and extract the ZIP file using the password `infected` before opening the email.
 
 ![Email](/assets/images/email.png)
 
@@ -32,7 +32,7 @@ The next stage is to determine whether the URL contained in the email is malicio
 
 ![EmailHeader02](/assets/images/email-header02.png)
 
-**`URL: https:// storage[.]googleapis[.]com /hqyoqzatqthj/aemmfcylvxeo[.]html#QORHNZC44FT4[.]QORHNZC44FT4?dYCTywccxr3jcxxrmcdcKBdmc5D6qfcJVcbbb4M`**
+**URL**: `https:// storage[.]googleapis[.]com/hqyoqzatqthj/aemmfcylvxeo[.]html#QORHNZC44FT4[.]QORHNZC44FT4?dYCTywccxr3jcxxrmcdcKBdmc5D6qfcJVcbbb4M`
 
 
 Using **VirusTotal** to analyse the URL confirms that it is malicious.
@@ -47,7 +47,7 @@ The final stage required in the challenge is identifying the **SHA-256 hash** of
 
 ![VirusTotal02](/assets/images/virustotal02.png)
 
-**`SHA-256: 13945ecc33afee74ac7f72e1d5bb73050894356c4bf63d02a1a53e76830567f5`**
+**SHA-256:** `13945ecc33afee74ac7f72e1d5bb73050894356c4bf63d02a1a53e76830567f5`
 
 
 ---
